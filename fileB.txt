@@ -4,3 +4,5 @@ pull
 test merge checkout
 test diff
 test diff2
+test log
+ammend
