@@ -1,1 +1,3 @@
 test checkout
+git pusf
+pull
