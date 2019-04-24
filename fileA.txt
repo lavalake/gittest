@@ -1,2 +1,2 @@
-git puse
+git pusf
 pull
