@@ -17,3 +17,5 @@ merge 2
 pull rebase
 pull merge 1
 pull merge 2
+pull merge 3
+pull merge 4
