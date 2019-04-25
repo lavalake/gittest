@@ -1,5 +1,6 @@
 test checkout
 git pusf
+update1
 pull
 test merge checkout
 test diff
