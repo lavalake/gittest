@@ -12,4 +12,4 @@ unstage
 rebase from
 rebase to
 pull merge 1
-merge 2
+pull merge 2
