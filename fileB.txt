@@ -17,8 +17,8 @@ merge 2
 pull rebase
 pull merge 1
 pull merge 2
-pull merge 3
-pull merge 4
+pull merge 5
+pull merge 6
 pull rebase 1
 pull rebase 2
 pull rebase 3
