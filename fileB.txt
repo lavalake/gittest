@@ -6,3 +6,4 @@ test diff
 test diff2
 test log
 ammend
+unstage
