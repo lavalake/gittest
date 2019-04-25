@@ -1,0 +1,11 @@
+test checkout
+git pusf
+pull
+test merge checkout
+test diff
+test diff2
+test log
+ammend
+unstage
+rebase from
+rebase to
