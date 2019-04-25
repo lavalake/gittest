@@ -9,3 +9,4 @@ ammend
 unstage
 rebase from
 rebase to
+merge 1
