@@ -11,5 +11,5 @@ ammend
 unstage
 rebase from
 rebase to
-merge 1
+pull merge 1
 merge 2
