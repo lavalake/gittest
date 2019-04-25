@@ -1,5 +1,5 @@
 test checkout
-git pusf
+git puse
 update1
 update2
 pull
