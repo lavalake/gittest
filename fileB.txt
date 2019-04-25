@@ -21,3 +21,4 @@ pull merge 3
 pull merge 4
 pull rebase 1
 pull rebase 2
+pull rebase 3
