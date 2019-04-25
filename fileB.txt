@@ -7,6 +7,7 @@ test merge checkout
 test diff
 test diff2
 test log
+pull merge test 1
 ammend
 unstage
 rebase from
