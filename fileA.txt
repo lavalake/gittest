@@ -1,2 +1,3 @@
 test checkout
 test merge checkout
+test merge
