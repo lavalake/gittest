@@ -11,7 +11,6 @@ ammend
 unstage
 rebase from
 rebase to
-<<<<<<< HEAD
 merge 1
 merge 2
 pull rebase
@@ -23,3 +22,4 @@ pull rebase 1
 pull rebase 2
 pull rebase 3
 pull rebase 5
+merge 3
